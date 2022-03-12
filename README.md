@@ -1,3 +1,3 @@
 # MRM
-Multi-Resolution Modeling
+# Multi-Resolution Modeling
 The Multi resolution modeling is critically needed to assess a large-scale transportation network at different spatial scales (e.g., corridor-level, segment-level and cell-level) and various temporal resolutions (e.g., min-by-min, peak hours, the entire day, and multiple days). This integrated framework creates a family of model that can provide unique insight into the traveler behaviors which more effectively represent the dynamic nature of traffic in large scale networks. MRM can consider changes in traveler behaviors due to demand and traffic management policies and strategies, such as managed lanes, congestion pricing, and transit.
